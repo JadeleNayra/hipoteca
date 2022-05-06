@@ -1,9 +1,22 @@
 body{
   font-family: 'Oxygen', sans-serif;
+    background-image: url("../imagenes/silueta.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:#534340;
+    font-size:1.5em;
+
 }
 h1{
   font-family: 'Playfair Display', serif;
+  text-align: center;
+  padding-top: 5%;
 }
-.container{
-  background-image: url("../imagenes/silueta.png");
+p{
+  text-align: center;
+}
+.fotoCasa{
+  width: 60%;
+  padding-left: 10%;
 }
